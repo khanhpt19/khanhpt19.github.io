@@ -17,7 +17,7 @@ baseurl: ""
 title: Pham Tien Khanh
 
 # Short description of your site
-description: I make it awesome!
+description: I make it awesome
 
 # --- Navigation bar options --- #
 
@@ -27,7 +27,7 @@ navbar-links:
   Resources:
     - Facebook: "https://www.facebook.com/ptkhanh2810"
     - GitHub: "https://github.com/khanhpt96"
-  Author's home: "https://www.linkedin.com/in/tienkhanh/"
+  Author's home: "https://khanhpt96.github.io/"
 
 # Image to show in the navigation bar - image must be a square (width = height)
 # Remove this parameter if you don't want an image in the navbar
@@ -71,8 +71,8 @@ author:
 # If you want to add a new link that isn't here, you'll need to also edit the file _data/SocialNetworks.yml
 social-network-links:
   rss: true
-  email: "khanhpt96@gmail.com"
-  facebook: khanh
+  email: "khanh281096@gmail.com"
+  facebook: ptkhanh2810
   github: khanhpt96
   linkedin: tienkhanh
 #  reddit: yourname
@@ -90,14 +90,13 @@ social-network-links:
 
 # Select which share links to show in posts
 share-links-active:
-  twitter: true
   facebook: true
-  google: false
+  google: true
   linkedin: true
-
+  twitter: true
 # How to display the link to the website in the footer
 # Remove this if you don't want a link in the footer
-url-pretty: "khanhptit.blogspot.com"  # eg. "deanattali.com/beautiful-jekyll"
+# url-pretty: "khanhptit.blogspot.com"  # eg. "deanattali.com/beautiful-jekyll"
 
 # --- Web Statistics Section --- #
 
