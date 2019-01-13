@@ -4,8 +4,8 @@ title: About me
 subtitle: Welcome to Khanh's blog
 ---
 
-My name is Pham Tien Khanh. I'm 23 years old from Phu Tho province. I have just graduated PTIT major software technolgy. 
-I'm a Android Developer and now in Framgia Inc.
+My name is Pham Tien Khanh. I'm 23 years old from Phu Tho province. I have just graduated PTIT major software technology. 
+I'm a Android Developer and working in Framgia Inc now.
 
 Check out my full CV at bellow for more information:
 
