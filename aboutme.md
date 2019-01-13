@@ -8,4 +8,7 @@ My name is Pham Tien Khanh. I'm 23 years old from Phu Tho province. I have just 
 I'm a Android Developer and now in Framgia Inc.
 
 Check out my full CV at bellow for more information:
+
 https://i.topcv.vn/phamtienkhanh?ref=1758218
+
+Thanks for reading! Have a nice day!
