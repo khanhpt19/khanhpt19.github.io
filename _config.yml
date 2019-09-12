@@ -4,7 +4,7 @@
 # baseurl is the website's URL without the hostname
 
 # If you are building a simple GitHub user page (https://username.github.io) then use these settings:
-url: "https://khanhpt96.github.io"
+url: "https://khanhpt19.github.io"
 baseurl: ""
 
 # If you are building a GitHub project page then use these settings:
@@ -25,9 +25,9 @@ description: I make it awesome
 navbar-links:
   About Me: "aboutme"
   Resources:
-    - Facebook: "https://www.facebook.com/ptkhanh2810"
-    - GitHub: "https://github.com/khanhpt96"
-  Author's home: "https://khanhpt96.github.io/"
+    - Facebook: "https://www.facebook.com/khanhpt19"
+    - GitHub: "https://github.com/khanhpt19"
+  Author's home: "https://khanhpt19.github.io/"
 
 # Image to show in the navigation bar - image must be a square (width = height)
 # Remove this parameter if you don't want an image in the navbar
@@ -71,9 +71,9 @@ author:
 # If you want to add a new link that isn't here, you'll need to also edit the file _data/SocialNetworks.yml
 social-network-links:
   rss: true
-  email: "khanh281096@gmail.com"
-  facebook: ptkhanh2810
-  github: khanhpt96
+  email: "pt.tienkhanh@gmail.com"
+  facebook: khanhpt19
+  github: khanhpt19
   linkedin: tienkhanh
 #  reddit: yourname
 #  google-plus: +DeanAttali
